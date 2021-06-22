@@ -1,6 +1,14 @@
-# CGQ
-Conjugate Gradient with Quadratic Line Search
+# CGQ: Conjugate Gradient with Quadratic Line Search
 
+```bash
+@inproceedings{
+  hao2021cgq,
+  title={Adaptive Learning Rate and Momentum for Training Deep Neural Networks},
+  author={Zhiyong Hao and Yixuan Jiang and Huihua Yu and Hsiao-Dong Chiang},
+  booktitle={ECMLPKDD},
+  year={2021},
+}
+```
 
 # Dependencies:
 numpy, pytorch, matplotlib, sklearn,scipy
