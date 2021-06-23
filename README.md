@@ -1,4 +1,4 @@
-# CGQ: Conjugate Gradient with Quadratic Line Search
+# CGQ: Conjugate Gradient with Quadratic Line Search [[arXiv]](https://arxiv.org/abs/2106.11548)
 
 ```bash
 @inproceedings{
