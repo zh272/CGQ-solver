@@ -1,4 +1,4 @@
-# CGQ: Conjugate Gradient with Quadratic Line Search [[arXiv]](https://arxiv.org/abs/2106.11548)
+# CGQ: Conjugate Gradient with Quadratic Line Search [[ECMLPKDD2021]](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_80.pdf)
 
 ```bash
 @inproceedings{
