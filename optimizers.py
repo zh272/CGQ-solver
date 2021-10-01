@@ -325,6 +325,8 @@ class CGQ(Optimizer):
                             suffix=suffix, est_window=self.est_window, est_bound=self.est_bound, est_step_size=self.est_step_size)
                 ### adjust optimizer learning rate
                 group['lr'] = group['lr']*0.5 + _lr*0.5
+            else:
+                move_along_grad(group, -group['lr'])
         return loss, output
 
 #########################################################################
